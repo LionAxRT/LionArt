@@ -7,7 +7,7 @@ issuer = "rDpGBpeq4NkgWk7xneFKCQDVBNwPe5jWqb"
 currency = "AxRT"
 name = "Hearts"
 desc = "With the LionArt Crypto Token, we aim to create a sustainable funding model for artists and foster the growth of the digital art community."
-icon = "https://www.axrt.space/axrt_icon-png"
+icon = "https://github.com/LionAxRT/LionArt/blob/main/AxRT_Icon.PNG"
 
 [[TOKENS.WEBLINKS]]
 url = "https://www.axrt.space"
