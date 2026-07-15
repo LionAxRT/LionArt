@@ -1,3 +1,13 @@
+[[ACCOUNTS]]
+address = "rDpGBpeq4NkgWk7xneFKCQDVBNwPe5jWqb"
+network = "main"
+desc = "AxRT issuer account."
+
+[[ACCOUNTS]]
+address = "r4jQyhyUH2tzL5HGh1Ph8hMubskLgbgNvN"
+network = "main"
+desc = "AxRT treasury and distribution account."
+
 [[ISSUERS]]
 address = "rDpGBpeq4NkgWk7xneFKCQDVBNwPe5jWqb"
 name = "Etincelles"
@@ -7,7 +17,6 @@ issuer = "rDpGBpeq4NkgWk7xneFKCQDVBNwPe5jWqb"
 currency = "AxRT"
 name = "LionArt"
 desc = "With the LionArt Crypto Token, we aim to create a sustainable funding model for artists and foster the growth of the digital art community."
-icon = "https://github.com/LionAxRT/LionArt/blob/main/AxRT_Icon_Simplified.PNG"
 
 [[TOKENS.WEBLINKS]]
 url = "https://www.axrt.space"
