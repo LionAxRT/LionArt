@@ -12,9 +12,9 @@ desc = "AxRT treasury and distribution account."
 address = "rDpGBpeq4NkgWk7xneFKCQDVBNwPe5jWqb"
 name = "Etincelles"
 
-[[TOKENS]]
+[[CURRENCIES]]
+code = "AxRT"
 issuer = "rDpGBpeq4NkgWk7xneFKCQDVBNwPe5jWqb"
-currency = "AxRT"
 name = "LionArt"
 desc = "With the LionArt Crypto Token, we aim to create a sustainable funding model for artists and foster the growth of the digital art community."
 
