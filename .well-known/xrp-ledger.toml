@@ -4,13 +4,22 @@ network = "main"
 desc = "AxRT issuer account."
 
 [[ACCOUNTS]]
+address = "rpncNpj8fDgn6EKRLQJLYDVrhp5dufuDeV"
+network = "main"
+desc = "AYA issuer account."
+
+[[ACCOUNTS]]
 address = "r4jQyhyUH2tzL5HGh1Ph8hMubskLgbgNvN"
 network = "main"
-desc = "AxRT treasury and distribution account."
+desc = "AxRT/AYA treasury and distribution account."
 
 [[ISSUERS]]
 address = "rDpGBpeq4NkgWk7xneFKCQDVBNwPe5jWqb"
 name = "Etincelles"
+
+[[ISSUERS]]
+address = "rpncNpj8fDgn6EKRLQJLYDVrhp5dufuDeV"
+name = "Allay Protocol"
 
 [[CURRENCIES]]
 code = "AxRT"
