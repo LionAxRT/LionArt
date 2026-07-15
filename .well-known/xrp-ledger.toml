@@ -28,8 +28,8 @@ name = "LionArt"
 desc = "With the LionArt Crypto Token, we aim to create a sustainable funding model for artists and foster the growth of the digital art community."
 
 [[CURRENCIES]]
-issuer = "rpncNpj8fDgn6EKRLQJLYDVrhp5dufuDeV"
 code = "AYA"
+issuer = "rpncNpj8fDgn6EKRLQJLYDVrhp5dufuDeV"
 name = "Allay"
 desc = "Companion ecosystem token for the AxRT platform."
 
